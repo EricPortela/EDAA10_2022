@@ -1,0 +1,9 @@
+Bo Ali A,B,A,B,A 
+Rasmus Andreasson 5,5,5,5,-1 
+Rut Andreasson 5,5,5,4,3 
+Bosse Larsson 3,4,5,5,5 
+Alice Abrahamsson 5,5,3,5,5
+Sandra Nilsson 5,5,5  
+Per Persson 3,U,3,44,3
+
+

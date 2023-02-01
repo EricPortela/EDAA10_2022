@@ -1,0 +1,7 @@
+Yvonne Nilsson 3,3,4,4,5
+Åke Nilsson 5,5,4,4,5
+Åsa Nilsson U,5,5,5,4
+Bengt Norberg 4,U,U,5,5
+Patrik Persson 4,5,4,5,5
+Rut Persson 5,5,3,5,5
+Ulrika Persson 4,5,4,3,3
